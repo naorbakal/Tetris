@@ -1,5 +1,9 @@
 # Tetris
-Tetris game in C++
+Tetris game implemented in C++ to **console**.
+
+This is my first project at *OOP(Object oriented programming)*,
+
+i worked with *polymorphism* and *abstract classes* for the first time.
 
 ## Instructions
 
@@ -27,6 +31,6 @@ Tetris game in C++
 *The rest of the buttons are listed in the MENU of the game.*
 
 ## Demo
-![alt text](https://github.com/naorbak/Tetris/blob/master/Tetris.gif)
+![alt text](https://github.com/naorbakal/Tetris/blob/master/Tetris.gif)
 
 Enjoy :)
