@@ -27,6 +27,6 @@ Tetris game in C++
 *The rest of the buttons are listed in the MENU of the game.*
 
 ## Demo
-![Alt Text](https://www.dropbox.com/s/4v8w48ykj9tn9fi/Tetris.gif)
+![alt text](https://github.com/naorbak/Tetris/blob/master/Tetris.gif)
 
 Enjoy :)
