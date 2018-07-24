@@ -1,25 +1,24 @@
 # Tetris
 Tetris game in C++
 
-Instructions - 
+## Instructions
 
-buttons : 
+#### Buttons
 
 a - right
 b - left
-c- rotate,
+c - rotate
 s - stop (JOKER)
 x - hard drop (SHAPES)
 
-score : 
+#### Score calculation
 
-Hard drop (shape) - distance x2
-Single line clear - 100
-Double line clear - 300
-Triple line clear (or more) - 500
-single line clear with joker - 50
-bomb explode - (-50)  each cube
-
+* Hard drop (shape) - distance x2
+* Single line clear - 100
+* Double line clear - 300
+* Triple line clear (or more) - 500
+* Single line clear with joker - 50
+* Bomb explode - (-50)  each cube
 
 The rest of the buttons are listed in the MENU of the game.
 
