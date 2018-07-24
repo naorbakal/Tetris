@@ -5,11 +5,15 @@ Tetris game in C++
 
 #### Buttons
 
-a - right
-b - left
-c - rotate
-s - stop (JOKER)
-x - hard drop (SHAPES)
+```a``` - right
+
+```b``` - left
+
+```c``` - rotate
+
+```s``` - stop (JOKER)
+
+```x``` - hard drop (SHAPES)
 
 #### Score calculation
 
@@ -20,6 +24,6 @@ x - hard drop (SHAPES)
 * Single line clear with joker - 50
 * Bomb explode - (-50)  each cube
 
-The rest of the buttons are listed in the MENU of the game.
+*The rest of the buttons are listed in the MENU of the game.*
 
 Enjoy :)
