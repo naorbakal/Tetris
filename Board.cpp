@@ -290,16 +290,16 @@ void Board::hardDownShape(Point * arr , int size)
 void Board::printMenu()
 {
 	gotoxy(Board::RIGHT_F + 5, (Board::BOTTOM_F + Board::TOP_F) / 2 - 5);
-	cout << "YOUR HIGH SCORE IS :";
+	cout << "Your highest score is :";
 	gotoxy(Board::RIGHT_F + 5, (Board::BOTTOM_F + Board::TOP_F) / 2);
-	cout << "press (1) to START" << endl;
+	cout << "Press (1) to START" << endl;
 	gotoxy(Board::RIGHT_F + 5, ((Board::BOTTOM_F + Board::TOP_F) / 2) + 1);
-	cout << "press (2) to PAUSE/RESUME" << endl;
+	cout << "Press (2) to PAUSE/RESUME" << endl;
 	gotoxy(Board::RIGHT_F + 5, ((Board::BOTTOM_F + Board::TOP_F) / 2) + 2);
-	cout << "press (3) to FAST SPEED" << endl;
+	cout << "Press (3) to FAST SPEED" << endl;
 	gotoxy(Board::RIGHT_F + 5, ((Board::BOTTOM_F + Board::TOP_F) / 2) + 3);
-	cout << "press (4) to NORMAL SPEED" << endl;
+	cout << "Press (4) to NORMAL SPEED" << endl;
 	gotoxy(Board::RIGHT_F + 5, ((Board::BOTTOM_F + Board::TOP_F) / 2) + 4);
-	cout << "press (9) to EXIT" << endl;
+	cout << "Press (9) to EXIT" << endl;
 }
 
